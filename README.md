@@ -7,7 +7,7 @@ Simple script satisfying one's needs of being up to date with his role model's p
 Dependencies
 ---
 To run, you will need:
-- a running istance of Mozilla Firefox (or compatible, Iceweasel also works) with MozRepl plugin installed and activated
+- a running instance of Mozilla Firefox (or compatible, Iceweasel also works) with MozRepl plugin installed and activated
 - some Perl modules, see source
 
 TODO
